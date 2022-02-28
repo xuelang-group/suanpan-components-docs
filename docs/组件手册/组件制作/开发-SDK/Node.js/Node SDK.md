@@ -43,7 +43,7 @@ MessageListener.onMessage(messageHandler);
 
 ## API目录
 
-- [参数](##参数)
+- [参数](#_5)
   - [.get([key]]()
 - Message
   - constructor
