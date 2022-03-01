@@ -37,4 +37,4 @@
 - **默认值：** 无
 
 ## 使用方法
-[Node SDK](../../组件制作/开发-SDK/Python/01.quickstart.md)
+[Node SDK](../../组件制作/开发-SDK/Node.js/使用在线编辑器进行开发.md)
