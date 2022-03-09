@@ -59,3 +59,9 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.tabbed:
       alternate_style: true
+plugins:
+    - search
+    - pdf-export
+        verbose: true
+        media_type: print
+        enabled_if_env: ENABLE_PDF_EXPORT

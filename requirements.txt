@@ -2,3 +2,4 @@ mkdocs[i18n]
 mkdocs-material
 mkpdfs-mkdocs
 mkdocs-include-dir-to-nav
+mkdocs-pdf-export-plugin
