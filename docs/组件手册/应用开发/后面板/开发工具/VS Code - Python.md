@@ -37,4 +37,4 @@
 - **默认值：** 无
 
 ## 使用方法
-[Python SDK](../../组件制作/开发-SDK/Python/01.quickstart.md)
+[Python SDK](../../../%E7%BB%84%E4%BB%B6%E5%88%B6%E4%BD%9C/开发-SDK/Python/01.quickstart.md)

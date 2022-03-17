@@ -37,4 +37,4 @@
 - **默认值：** 无
 
 ## 使用方法
-[Java SDK](../../组件制作/开发-SDK/Java/vscode.md)
+[Java SDK](../../../组件制作/开发-SDK/Java/vscode.md)
